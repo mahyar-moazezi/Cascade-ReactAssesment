@@ -1,0 +1,29 @@
+.cascade-header-logo {
+  width: 250px;
+}
+.header {
+  background-color: #dedede;
+  color: #fff;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  height: 100px;
+}
+.cascade-header-logo {
+  margin-left: 10px;
+  width: 250px;
+}
+/* .statusbar {
+  background-color: #748b00;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 80px;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 5px;
+} */
+.body-container {
+  padding: 20px;
+}
